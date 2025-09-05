@@ -1,0 +1,5 @@
+python3-indi-client for Debian
+
+Modified packaging for bookworm.
+
+ -- Matteo Piscitelli <matteo@matteopiscitelli.it>  Fri, 05 Sep 2025 10:36:24 +0000

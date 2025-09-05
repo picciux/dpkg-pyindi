@@ -1,0 +1,5 @@
+python3-indi-client (2.1.2-1) bookworm; urgency=low
+
+  * Repackage version 2.1.2 for bookworm.
+
+ -- Matteo Piscitelli <matteo@matteopiscitelli.it>  Fri, 05 Sep 2025 12:14:52 +0000
